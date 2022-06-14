@@ -50,15 +50,7 @@ img {
   max-width: 100%;
 }
 
-textarea,
-input[type="text"],
-input[type="button"],
-input[type="submit"] {
-     -webkit-appearance: none;
-     border-radius: 0;
-}
-
-input { -webkit-border-radius: 0; }
+input[type="search"] { -webkit-border-radius: 0; }
 
 input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-cancel-button,
